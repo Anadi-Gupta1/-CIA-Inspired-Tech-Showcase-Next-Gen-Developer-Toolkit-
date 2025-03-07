@@ -1,7 +1,7 @@
 # CIA-Inspired Tech Showcase: Next-Gen Developer Toolkit 🚀🕶️
 ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/1200px-Seal_of_the_Central_Intelligence_Agency.svg.png)
 
-![Project Banner](https://www.cia.gov/stories/story/capturing-the-beauty-in-intelligence/)
+
 
 > "Invisible Infrastructure for Visible Impact" - Cyber-Physical Systems Manifesto
 
